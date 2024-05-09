@@ -18,3 +18,4 @@ uvicorn
 jinja2
 setuptools
 sacrebleu
+-e .
